@@ -46,7 +46,7 @@
 * [EJS v3](https://ejs.co/#promo) Embedded Javascript templating to generate HTML markup
 * [Express method-override v3](http://expressjs.com/en/resources/middleware/method-override.html) to be able to use HTTP verbs PUT or DELETE
 * [Express v4](https://expressjs.com/) framework for Node.js
-* [MongoDB Atlas](https://www.mongodb.com/docs/) free shared DB cluster used
+* [MongoDB Atlas](https://www.mongodb.com/docs/) shared DB cluster used
 * [Mongoose v6](https://mongoosejs.com/) object modelling for Node.js
 * [marked v4](https://www.npmjs.com/package/marked) to convert markdown to html
 * [Slugify v1](https://www.npmjs.com/package/slugify) to replace unwanted characters etc
@@ -120,4 +120,4 @@ exports.article_list = async (req, res) => {
 
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: '<gomezbateman@yahoo.com>'
